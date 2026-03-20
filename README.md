@@ -27,8 +27,6 @@ This project focuses on recreating the layout, styling, and user interface of Sp
 <img width="1360" height="640" alt="image" src="https://github.com/user-attachments/assets/7157699b-52c3-4727-9bfe-8c62421a6be4" />
 
 
-> (Add your screenshot file in the project folder and rename it to `screenshot.png`)
-
 ---
 
 ## 📂 Project Structure
